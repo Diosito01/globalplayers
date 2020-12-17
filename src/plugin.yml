@@ -1,0 +1,6 @@
+name: BungeeTP
+author: Zane_Gamer
+version: 1.0
+main: mx.diosito.bungeetp.Main
+commands:
+  players:
